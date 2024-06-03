@@ -1,6 +1,6 @@
 # Hi, I'm Roshan Patel! 👋
 
-I started my coding journey just last year. I love using code to solve real-world problems in the virtual realm. Here's a bit about me:
+crazy code , I love using code to solve real-world problems in the virtual realm. Here's a bit about me:
 
 - 🚀 I'm passionate about problem-solving through coding.
 - 🌱 I'm continuously learning and focusing on web development.
