@@ -1,81 +1,48 @@
-<style>
-  .header {
-    font-family: 'Arial', sans-serif;
-    font-size: 36px;
-    color: #2C3E50;
-    text-align: center;
-  }
-  .sub-header {
-    font-family: 'Arial', sans-serif;
-    font-size: 24px;
-    color: #34495E;
-    margin-bottom: 10px;
-  }
-  .content {
-    font-family: 'Arial', sans-serif;
-    font-size: 16px;
-    color: #7F8C8D;
-  }
-  .tech-list {
-    list-style-type: none;
-    padding: 0;
-  }
-  .tech-list li {
-    display: inline;
-    margin-right: 15px;
-  }
-  .projects {
-    margin-top: 20px;
-  }
-  .contact {
-    margin-top: 20px;
-  }
-  .support {
-    margin-top: 20px;
-    text-align: center;
-  }
-</style>
+# Roshan Patel 👨‍💻
 
-<div class="header">Roshan Patel 👨‍💻</div>
+Hi there! I’m Roshan Patel, a tech enthusiast passionate about web development. Welcome to my GitHub profile!
 
-<div class="content">
-  <p>Hi there! I’m Roshan Patel, a tech enthusiast passionate about web development. Welcome to my GitHub profile!</p>
+## About Me
 
-  <div class="sub-header">About Me</div>
-  <p>I love building efficient and scalable web applications using:</p>
-  <ul class="tech-list">
-    <li>JavaScript</li>
-    <li>React</li>
-    <li>Next.js</li>
-    <li>Node.js</li>
-    <li>MongoDB</li>
-    <li>Python</li>
-    <li>Docker</li>
-    <li>Git</li>
-    <li>Linux</li>
-  </ul>
+I love building efficient and scalable web applications using:
 
-  <div class="sub-header projects">Projects 🚀</div>
-  <ul>
-    <li><a href="link-to-project">Project 1</a> - Brief description of Project 1.</li>
-    <li><a href="link-to-project">Project 2</a> - Brief description of Project 2.</li>
-    <li><a href="link-to-project">Project 3</a> - Brief description of Project 3.</li>
-  </ul>
+- <span style="font-weight: bold; color: #2C3E50;">💻 JavaScript</span>
+- <span style="font-weight: bold; color: #2C3E50;">⚛️ React</span>
+- <span style="font-weight: bold; color: #2C3E50;">🌐 Next.js</span>
+- <span style="font-weight: bold; color: #2C3E50;">🚀 Node.js</span>
+- <span style="font-weight: bold; color: #2C3E50;">🗄️ MongoDB</span>
+- <span style="font-weight: bold; color: #2C3E50;">🐍 Python</span>
+- <span style="font-weight: bold; color: #2C3E50;">🐳 Docker</span>
+- <span style="font-weight: bold; color: #2C3E50;">🔧 Git</span>
+- <span style="font-weight: bold; color: #2C3E50;">🐧 Linux</span>
 
-  <div class="sub-header contact">Let's Connect 📬</div>
-  <p>
-    <a href="your-linkedin-profile">LinkedIn</a> | 
-    <a href="https://twitter.com/your-twitter-handle">Twitter</a> | 
-    <a href="mailto:your-email@example.com">Email</a>
-  </p>
+## Projects 🚀
 
-  <div class="sub-header support">Support 🙌</div>
-  <p>If you find my work helpful, please give my projects a star ⭐. Your support keeps me motivated to share more!</p>
-</div>
+### [Project 1](link-to-project)
+
+Brief description of Project 1.
+
+### [Project 2](link-to-project)
+
+Brief description of Project 2.
+
+### [Project 3](link-to-project)
+
+Brief description of Project 3.
+
+## Let's Connect 📬
+
+- **LinkedIn**: [Roshan Patel](your-linkedin-profile)
+- **Twitter**: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+
+Feel free to reach out for questions, suggestions, or collaborations!
+
+## Support 🙌
+
+If you find my work helpful, please give my projects a star ⭐. Your support keeps me motivated to share more!
 
 ---
 
-<div class="content">
-  <p><em>Roshan Patel</em><br>
-  <em>Tech Enthusiast & Web Developer</em></p>
-</div>
+<span style="font-style: italic; color: #7F8C8D;">Roshan Patel</span><br>
+<span style="font-style: italic; color: #7F8C8D;">Tech Enthusiast & Web Developer</span>
