@@ -17,16 +17,13 @@ I love building efficient and scalable web applications using:
 - <span style="font-weight: bold; color: #2C3E50;">🐧 Linux</span>
 
 
-## Let's Connect 📬
-
-- **LinkedIn**: [Roshan Patel](linkedin.com/in/roshan-patel-b53623289)
-- **Email**: [your-email@example.com](rp207045@gmail.com)
-
-Feel free to reach out for questions, suggestions, or collaborations!
 
 ## Support 🙌
 
 If you find my work helpful, please give my projects a star ⭐. Your support keeps me motivated to share more!
+
+
+Feel free to reach out for questions, suggestions, or collaborations!
 
 ---
 
