@@ -16,25 +16,11 @@ I love building efficient and scalable web applications using:
 - <span style="font-weight: bold; color: #2C3E50;">🔧 Git</span>
 - <span style="font-weight: bold; color: #2C3E50;">🐧 Linux</span>
 
-## Projects 🚀
-
-### [Project 1](link-to-project)
-
-Brief description of Project 1.
-
-### [Project 2](link-to-project)
-
-Brief description of Project 2.
-
-### [Project 3](link-to-project)
-
-Brief description of Project 3.
 
 ## Let's Connect 📬
 
-- **LinkedIn**: [Roshan Patel](your-linkedin-profile)
-- **Twitter**: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [Roshan Patel](linkedin.com/in/roshan-patel-b53623289)
+- **Email**: [your-email@example.com](rp207045@gmail.com)
 
 Feel free to reach out for questions, suggestions, or collaborations!
 
