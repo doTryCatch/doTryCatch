@@ -7,6 +7,7 @@ Hi there! I’m Roshan Patel, a tech enthusiast passionate about web development
 I love building efficient and scalable web applications using:
 
 - <span style="font-weight: bold; color: #2C3E50;">💻 JavaScript</span>
+- <span style="font-weight: bold; color: #2C3E50;">©️ C/C++</span>
 - <span style="font-weight: bold; color: #2C3E50;">⚛️ React</span>
 - <span style="font-weight: bold; color: #2C3E50;">🌐 Next.js</span>
 - <span style="font-weight: bold; color: #2C3E50;">🚀 Node.js</span>
