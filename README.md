@@ -1,32 +1,56 @@
-# Roshan Patel 👨‍💻
+# Roshan Kumar Patel
 
-Hi there! I’m Roshan Patel, a tech enthusiast passionate about web development. Welcome to my GitHub profile!
+DevOps & Backend Engineer with 3+ years of experience building cloud infrastructure, serverless architectures, and scalable applications.
 
-## About Me
+## Tech Stack
 
-I love building efficient and scalable web applications using:
+### Languages
+`Python` `TypeScript` `JavaScript` `SQL` `C/C++` `Bash`
 
-- <span style="font-weight: bold; color: #2C3E50;">💻 JavaScript</span>
-- <span style="font-weight: bold; color: #2C3E50;">©️ C/C++</span>
-- <span style="font-weight: bold; color: #2C3E50;">⚛️ React</span>
-- <span style="font-weight: bold; color: #2C3E50;">🌐 Next.js</span>
-- <span style="font-weight: bold; color: #2C3E50;">🚀 Node.js</span>
-- <span style="font-weight: bold; color: #2C3E50;">🗄️ MongoDB</span>
-- <span style="font-weight: bold; color: #2C3E50;">🐍 Python</span>
-- <span style="font-weight: bold; color: #2C3E50;">🐳 Docker</span>
-- <span style="font-weight: bold; color: #2C3E50;">🔧 Git</span>
-- <span style="font-weight: bold; color: #2C3E50;">🐧 Linux</span>
+### Backend
+`Node.js` `Express.js` `NestJS` `FastAPI` `REST APIs` `WebSockets`
 
+### Cloud & DevOps
+`AWS Lambda` `S3` `SNS` `SES` `SQS` `EventBridge` `EC2` `API Gateway` `Docker` `Nginx` `GitHub Actions` `CI/CD`
 
+### Infrastructure
+`Linux` `Load Balancing` `Reverse Proxy` `Rate Limiting` `Serverless` `Event-Driven Architecture`
 
-## Support 🙌
+### Databases
+`PostgreSQL` `MySQL` `MongoDB` `Prisma ORM` `Firebase` `Supabase`
 
-If you find my work helpful, please give my projects a star ⭐. Your support keeps me motivated to share more!
+### Frontend
+`React` `Next.js 15` `React Native` `Tailwind CSS` `Radix UI`
 
+### Authentication
+`JWT` `RBAC` `OAuth 2.0` `Clerk`
 
-Feel free to reach out for questions, suggestions, or collaborations!
+### Tools
+`Git` `Postman` `Neovim` `Linux/Bash`
+
+## Currently
+
+Building solar plant monitoring software at **Delphi Analytics** — processing 10K+ daily IoT data points with AWS serverless, real-time analytics, and multi-tenant dashboards.
+
+## Featured Work
+
+| Project | Tech Stack |
+|---------|------------|
+| [Backend REST API](https://github.com/doTryCatch/Backend-REST-API-JWT-Auth-RoleBased) | Node.js, JWT, RBAC, PostgreSQL |
+| [Blog CMS](https://blog-content-management-demo.vercel.app) | Next.js 15, TypeScript, Docker |
+| [Dish Management](https://github.com/doTryCatch/dish_management_backend) | WebSockets, Real-time, PostgreSQL |
+| [Kara AI](https://github.com/doTryCatch/kara) | Python, AI/ML, NLP |
+
+## Highlights
+
+- **250+** LeetCode problems solved
+- Contributor to **lingo.dev** (5.4k+ stars)
+- **3+ years** production experience
+
+## Connect
+
+[Portfolio](https://patela.vercel.app) · [LinkedIn](https://linkedin.com/in/roshan-patel-b53623289) · [GitHub](https://github.com/doTryCatch) · [Email](mailto:rp207045@gmail.com)
 
 ---
 
-<span style="font-style: italic; color: #7F8C8D;">Roshan Patel</span><br>
-<span style="font-style: italic; color: #7F8C8D;">Tech Enthusiast & Web Developer</span>
+> Trying and catching things around me
