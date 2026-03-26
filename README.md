@@ -49,3 +49,7 @@ Currently building **solar plant monitoring systems** handling **10K+ IoT events
 
 > *"I write black code to create colorful systems.
 >  I can do this all day."*
+
+## 🤝 Connect
+
+> Feel free to connect — whether it's building systems, solving problems, or just talking tech.
